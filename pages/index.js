@@ -44,15 +44,15 @@ export default function Home() {
       <QuizContainer>
         <Widget>
           <Widget.Header>
-            <h1> The Legend Of Zelda</h1>
+            <h1> Friends Quiz - The One With a Quiz</h1>
           </Widget.Header>
           <Widget.Content>
-            <p> Lorem ipsum dolor sit amet...</p>
+            <p>Perguntas disponíveis em breve</p>
           </Widget.Content>
         </Widget>
         <Widget>
           <h1>Quiz da Galera</h1>
-          <p> Lorem ipsum dolor sit amet...</p>
+          <p>Em breve</p>
         </Widget>
         <Footer>
 
