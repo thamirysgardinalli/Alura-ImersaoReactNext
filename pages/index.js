@@ -44,7 +44,7 @@ export default function Home() {
       <QuizContainer>
         <Widget>
           <Widget.Header>
-            <h1> Friends Quiz - The One With a Quiz</h1>
+            <h1>Friends Quiz - The One With a Quiz</h1>
           </Widget.Header>
           <Widget.Content>
             <p>Perguntas disponíveis em breve</p>
