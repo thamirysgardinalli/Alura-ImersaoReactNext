@@ -1,28 +1,126 @@
 {
   "bg": "https://cdn.wallpapersafari.com/65/7/X4KPHQ.jpg",
-  "title": "Quiz CSS da Alura",
-  "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+  "title": "Quiz Friends",
+  "description": "Teste os seus conhecimentos sobre Friends e relembre momentos da série",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
-      "description": "Essa é pra aquecer",
-      "answer": 2,
+      "image": "https://media0.giphy.com/media/Ply1Uelc18qDpkemPr/200.webp",
+      "title": "O que havia no lugar do Central Perk antes dele ser um café?",
+      "description": "Aquela no Central Perk",
+      "answer": 1,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "Um restaurante",
+        "Um bar",
+        "Um shopping",
+        "Um banco"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
+      "image": "https://media1.giphy.com/media/j6wiwGBfbh3QT4W5a1/giphy.gif?cid=ecf05e47b795v9enjwxxc8lps279g0w9xc0td7pl3q0b6jmt&rid=giphy.gif",
+      "title": "Qual é a frase mais conhecida dita pela Janice?",
+      "description": "Aquela com a namorada do Chandler",
       "answer": 0,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+         "Oh my God!",
+         "Oh my friend!",
+         "Oh my night!",
+         "Oh God!"
+      ]
+    },
+    {
+      "image": "https://media1.giphy.com/media/VHkAzJa7WGZvDBb99Z/giphy.gif",
+      "title": "Qual é a profissão do Ross?",
+      "description": "Aquela sobre a profissão",
+      "answer": 3,
+      "alternatives": [
+         "Ator",
+         "Cozinheiro",
+         "Paleontólogo",
+         "Arquiteto"
+      ]
+    },
+    {
+      "image": "https://media0.giphy.com/media/lNX7rdyDOdRXFJFj9s/200.webp?cid=ecf05e47crsfwfvqry8nvlm5bngy0qi270dxplyvtxwd6ec3&rid=200.webp",
+      "title": "Qual música da Phoebe fez mais sucesso?",
+      "description": "Aquela pra cantar junto",
+      "answer": 0,
+      "alternatives": [
+         "Smelly Cat",
+         "My Guy",
+         "Holiday",
+         "Friends Song"
+      ]
+    },
+    {
+      "image": "https://media3.giphy.com/media/gjNgYBvJqGlV4q1H24/200.webp?cid=ecf05e471pp0sanhaconif4gdek11ym0pphwireoha3c5vvq&rid=200.webp",
+      "title": "Qual o nome completo do Joey?",
+      "description": "Aquela sobre o nome completo",
+      "answer": 2,
+      "alternatives": [
+         "Jonathas Joseph Tribbiani",
+         "John Francis Joseph",
+         "Joseph Francis Tribbiani",
+         "Francis Joey Tribbiani"
+      ]
+    },
+    {
+      "image": "https://media2.giphy.com/media/iJti6yxul2mTQ0GP6i/200.webp?cid=ecf05e471pp0sanhaconif4gdek11ym0pphwireoha3c5vvq&rid=200.webp",
+      "title": "Qual o nome da filha da Rachel?",
+      "description": "Aquela sobre a filha",
+      "answer": 2,
+      "alternatives": [
+         "Carla",
+         "Joanna",
+         "Emma",
+         "Anna"
+      ]
+    },
+    {
+      "image": "https://media0.giphy.com/media/gKCWqfC7FsTEbiOsF0/200.webp?cid=ecf05e47if0mas6f9mmvi4c2hvh4xi5o776go3u4p4f8pz2f&rid=200.webp",
+      "title": "Onde o Chandler conheceu a Janice?",
+      "description": "Aquela sobre o Chandler",
+      "answer": 0,
+      "alternatives": [
+         "Internet",
+         "Central Park",
+         "Restaurante",
+         "Trabalho"
+      ]
+    },
+    {
+      "image": "https://media2.giphy.com/media/Qub9NF3Kc1NMrSavTq/200.webp?cid=ecf05e47pbmzgy2ghk5fwb49vlc6nifot1dnghpt2638tz3w&rid=200.webp",
+      "title": "Qual foi o primeiro personagem a descobrir o relacionamento da Monica e o Chandler?",
+      "description": "Aquela com a Monica",
+      "answer": 0,
+      "alternatives": [
+         "Joey",
+         "Phoebe",
+         "Ross",
+         "Rachel"
+      ]
+    },
+    {
+      "image": "https://media0.giphy.com/media/XnqUYOaSBRaLe/200.webp?cid=ecf05e47xomj9b47q70s8yphz8i5n9byesdljmgt898zwvxg&rid=200.webp",
+      "title": "Quantas temporadas teve a série?",
+      "description": "Aquela pra quem é fã",
+      "answer": 3,
+      "alternatives": [
+         "7",
+         "8",
+         "9",
+         "10"
+      ]
+    },
+    {
+      "image": "https://media1.giphy.com/media/YnBntKOgnUSBkV7bQH/200.webp?cid=ecf05e47jbfhw3im58mqcpdumhwsmrvsfw907s8foa3gf9qy&rid=200.webp",
+      "title": "Qual é o único episódio que nao tem a nomenclatura começando com 'The One'?",
+      "description": "Aquela sobre o nome dos episódios",
+      "answer": 3,
+      "alternatives": [
+         "The First One",
+         "Where Rachel Quits",
+         "The Routine",
+         "The Last One"
       ]
     }
   ],
