@@ -31,7 +31,7 @@
       "image": "https://media1.giphy.com/media/VHkAzJa7WGZvDBb99Z/giphy.gif",
       "title": "Qual é a profissão do Ross?",
       "description": "Aquela sobre a profissão",
-      "answer": 3,
+      "answer": 2,
       "alternatives": [
          "Ator",
          "Cozinheiro",
@@ -67,11 +67,11 @@
       "image": "https://media2.giphy.com/media/iJti6yxul2mTQ0GP6i/200.webp?cid=ecf05e471pp0sanhaconif4gdek11ym0pphwireoha3c5vvq&rid=200.webp",
       "title": "Qual o nome da filha da Rachel?",
       "description": "Aquela sobre a filha",
-      "answer": 2,
+      "answer": 1,
       "alternatives": [
          "Carla",
-         "Joanna",
          "Emma",
+         "Joanna",
          "Anna"
       ]
     },
